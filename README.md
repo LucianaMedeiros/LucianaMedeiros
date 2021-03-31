@@ -1,7 +1,7 @@
 ### Olá Pessoal! 👋
 #### Todos bem? 😄
-🌱 Estou estudando sobre UX e UI
-🔭 Estou trabalhandocom Angular e Spring Boot
+* 🌱 Estou estudando sobre UX e UI
+* 🔭 Estou trabalhando com Angular e Spring Boot
 
 #### Fiquem em paz!
 
