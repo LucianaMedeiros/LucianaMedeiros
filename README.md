@@ -1,7 +1,9 @@
 ### Olá Pessoal! 👋
 #### Todos bem? 😄
-## Feliz 2021!
+🌱 Estou estudando sobre UX e UI
+🔭 Estou trabalhandocom Angular e Spring Boot
 
+#### Fiquem em paz!
 
 <!--
 **LucianaMedeiros/LucianaMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
