@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens de Programação: <br>
+  🦄 <b>Linguagens de Programação:</b> <br>
   Java, Javascript, Typescript, HTML, CSS, SCSS, LESS
 </p>
 
@@ -26,8 +26,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas de Trabalho: <br>
-  <b>Adobe XP, Figma, Sketch, Zeplin, Visual Code, Sublime, Git, SVN, NPM, Yarn, Webpack, Gulp, Grunt, Babel, Trello, Jira, Slack</b>
+  💼 <b>Ferramentas de Trabalho:</b> <br>
+  Adobe XP, Figma, Sketch, Zeplin, Visual Code, Sublime, Git, SVN, NPM, Yarn, Webpack, Gulp, Grunt, Babel, Trello, Jira, Slack
 </p>
 
 <p align="left">
@@ -51,4 +51,5 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
 
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=lucianamedeiros&show_icons=true&title_color=dff9fb&text_color=ffffff&icon_color=badc58&bg_color=30336b&cache_seconds=2300">
 
