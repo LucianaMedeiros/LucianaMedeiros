@@ -7,7 +7,7 @@
 
 <p align="left">
   🦄 Linguagens de Programação: <br>
-  <b>Java, Javascript, Typescript, HTML, CSS, SCSS, LESS</b>
+  Java, Javascript, Typescript, HTML, CSS, SCSS, LESS
 </p>
 
 <p align="left"> 
@@ -52,6 +52,6 @@
 </p>
 
 <p align="left"> 
-⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianamedeiros&show_icons=true)
+⭐ Informações sobre minha conta GitHub: <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianaMedeiros&show_icons=true)
 </p>
