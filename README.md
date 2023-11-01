@@ -6,11 +6,12 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens de Programação: <b>Java, Javascript, Typescript, HTML, CSS, SCSS, LESS</b>
+  🦄 Linguagens de Programação: <br>
+  <b>Java, Javascript, Typescript, HTML, CSS, SCSS, LESS</b>
 </p>
 
 <p align="left"> 
-🚀 Minhas Skills
+🚀 Minhas Skills: <br>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -25,7 +26,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas de Trabalho: <b>Adobe XP, Figma, Sketch, Zeplin, Visual Code, Sublime, Git, SVN, NPM, Yarn, Webpack, Gulp, Grunt, Babel, Trello, Jira, Slack</b>
+  💼 Ferramentas de Trabalho: <br>
+  <b>Adobe XP, Figma, Sketch, Zeplin, Visual Code, Sublime, Git, SVN, NPM, Yarn, Webpack, Gulp, Grunt, Babel, Trello, Jira, Slack</b>
 </p>
 
 <p align="left">
